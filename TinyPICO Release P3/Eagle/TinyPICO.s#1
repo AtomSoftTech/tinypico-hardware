@@ -16736,7 +16736,6 @@ OSHW_LOGO</description>
 <wire x1="200.66" y1="160.02" x2="200.66" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="198.12" y1="160.02" x2="200.66" y2="160.02" width="0.1524" layer="91"/>
 <junction x="200.66" y="160.02"/>
-<label x="195.58" y="154.94" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="3"/>
